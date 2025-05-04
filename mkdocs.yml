@@ -7,7 +7,7 @@ repo_name: episteme-association/documentation
 edit_uri: edit/main/docs/
 
 nav:
-  - Association Episteme:
+  - Home:
     - index.md 
   - About Us:
     - about-us/index.md
