@@ -1,7 +1,7 @@
 site_name: episteme
-site_url: https://episteme-association.github.io/documentation/
+site_url: https://episteme-association.github.io
 
-repo_url: https://github.com/episteme-association/documentation/
+repo_url: https://github.com/episteme-association/documentation
 repo_name: episteme-association/documentation
 
 edit_uri: edit/main/docs/
