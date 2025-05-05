@@ -142,7 +142,8 @@ nav:
     - Advanced Analytics Operationalisation: continuous-innovations/a2o/index.md
   - Knowledge Base:
     - knowledge-base/index.md
-    - Health Emergencies: knowledge-base/health-emergencies/index.md
+    - Health Emergencies:
+      - knowledge-base/health-emergencies/index.md
     - Health Intelligence:
       - knowledge-base/health-intelligence/index.md
       - Surveillance: knowledge-base/health-intelligence/surveillance/index.md
