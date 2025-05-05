@@ -6,55 +6,6 @@ repo_name: episteme-association/documentation
 
 edit_uri: edit/main/docs/
 
-nav:
-  - Home:
-    - index.md 
-  - About Us:
-    - about-us/index.md
-  - Services:
-    - services/index.md
-    - Health Intelligence Partnership Project Coordination: services/hipp/index.md
-    - Health Intelligence Network Governance: services/governance/index.md
-    - Solution Design: services/solution-design/index.md
-    - Health Intelligence: services/health-intelligence/index.md
-  - Solutions:
-    - Solutions/index.md
-    - Public Health:
-      - Solutions/Public-Health/index.md
-      - Human Intelligence: Solutions/Public-Health/Human-Intelligence/index.md
-      - Open Source Intelligence: Solutions/Public-Health/Open-Source-Intelligence/index.md
-      - Early Warning and Alerting: Solutions/Public-Health/Early-Warning-and-Alerting/index.md
-      - Integrated Disease Surveillance: Solutions/Public-Health/Integrated-Disease-Surveillance/index.md
-      - Health Information Exchange: Solutions/Public-Health/Health-Information-Exchange/index.md
-      - Pandemic Simulator: Solutions/Public-Health/Pandemic-Simulator/index.md
-    - Healthcare:
-      - Solutions/Healthcare/index.md
-      - Self-observation:
-        - Solutions/Healthcare/Self-observation/index.md
-        - Personal Seizure Diary: Solutions/Healthcare/Self-observation/Personal-seizure-diary/index.md
-        - Personal Glucose Monitor: Solutions/Healthcare/Self-observation/Personal-glucose-monitor/index.md
-      - Clinical Decision Support: Solutions/Healthcare/Clinical-Decision-Support/index.md
-  - Health Intelligence Network:
-    - Health-Intelligence-Network/index.md
-    - Health Intelligence Partnership Project: Health-Intelligence-Network/Partnership-Project/index.md
-    - Health Intelligence Network Governance: Health-Intelligence-Network/Governance/index.md
-    - Health Intelligence Services: Health-Intelligence-Network/Health-Intelligence-Services/index.md
-  - Continuous Innovations:
-    - Continuous-Innovations/index.md
-    - Knowledge Models: Continuous-Innovations/Knowledge-Models/index.md
-    - Web of Data Components: Continuous-Innovations/Web-of-Data-Components/index.md
-    - Health Intelligence Network Search Engine: Continuous-Innovations/Web-of-Data-Search-Engine/index.md
-    - Advanced Analytics Operationalisation: Continuous-Innovations/Advanced-Analytics-Operationalisation/index.md
-  - Knowledge Base:
-    - Knowledge-Base/index.md
-    - Health Emergencies: Knowledge-Base/Health-Emergencies/index.md
-    - Health Intelligence:
-      - Knowledge-Base/Health-Intelligence/index.md
-      - Surveillance: Knowledge-Base/Health-Intelligence/Surveillance/index.md
-      - Contextual Analysis: Knowledge-Base/Health-Intelligence/Contextual-Analysis/index.md
-      - Assessment: Knowledge-Base/Health-Intelligence/Threats-and-Opportunities-Assessment/index.md
-      - Actionable Intelligence: Knowledge-Base/Health-Intelligence/Actionable-Intelligence/index.md
-
 theme:
   name: material
   custom_dir: overrides
