@@ -102,3 +102,50 @@ plugins:
 
 copyright: "<a rel=\"license\" href=\"https://episteme-association.github.io/documentation/\">Association Episteme's documentation</a> &copy; 2025 by Association Episteme is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1\" target=\"_blank\" rel=\"license noopener noreferrer\" style=\"display:inline-block;\">Creative Commons Attribution-ShareAlike 4.0 International<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1\" alt=\"\"></a>"
 
+nav:
+  - Home: index.md 
+  - About Us:
+    - about/index.md
+  - Services:
+    - services/index.md
+    - Health Intelligence Partnership Project Coordination: services/hipp/index.md
+    - Health Intelligence Network Governance: services/governance/index.md
+    - Solution Design: services/solution-design/index.md
+    - Health Intelligence: services/health-intelligence/index.md
+  - Solutions:
+    - solutions/index.md
+    - Public Health:
+      - solutions/public-health/index.md
+      - Human Intelligence: solutions/public-health/humint/index.md
+      - Open Source Intelligence: solutions/public-health/osint/index.md
+      - Early Warning and Alerting: solutions/public-health/ewar/index.md
+      - Integrated Disease Surveillance: solutions/public-health/integrated-disease-surveillance/index.md
+      - Health Information Exchange: solutions/public-health/hie/index.md
+      - Pandemic Simulator: solutions/public-health/pandemic-simulator/index.md
+    - Healthcare:
+      - solutions/healthcare/index.md
+      - Self-observation:
+        - solutions/healthcare/self-observation/index.md
+        - Personal Seizure Diary: solutions/healthcare/self-observation/personal-seizure-diary/index.md
+        - Personal Glucose Monitor: solutions/healthcare/self-observation/personal-glucose-monitor/index.md
+      - Clinical Decision Support: solutions/healthcare/clinical-decision-support/index.md
+  - Health Intelligence Network:
+    - hint/index.md
+    - Health Intelligence Partnership Project: hint/hipp/index.md
+    - Health Intelligence Network Governance: hint/governance/index.md
+    - Health Intelligence Services: hint/health-intelligence-services/index.md
+  - Continuous Innovations:
+    - continuous-innovations/index.md
+    - Knowledge Models: continuous-innovations/knowledge-models/index.md
+    - Web of Data Components: continuous-innovations/web-of-data-components/index.md
+    - Health Intelligence Network Search Engine: continuous-innovations/web-of-data-search-engine/index.md
+    - Advanced Analytics Operationalisation: continuous-innovations/a2o/index.md
+  - Knowledge Base:
+    - knowledge-base/index.md
+    - Health Emergencies: knowledge-base/health-emergencies/index.md
+    - Health Intelligence:
+      - knowledge-base/health-intelligence/index.md
+      - Surveillance: knowledge-base/health-intelligence/surveillance/index.md
+      - Contextual Analysis: knowledge-base/health-intelligence/contextual-analysis/index.md
+      - Assessment: knowledge-base/health-intelligence/threats-and-opportunities-assessment/index.md
+      - Actionable Intelligence: knowledge-base/health-intelligence/actionable-intelligence/index.md
