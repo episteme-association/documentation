@@ -62,7 +62,8 @@ nav:
       - continuous-innovations/wod/index.md
     - Health Intelligence Network Search Engine:
       - continuous-innovations/wodse/index.md
-    - Advanced Analytics Operationalisation: continuous-innovations/a2o/index.md
+    - Advanced Analytics Operationalisation:
+      - continuous-innovations/a2o/index.md
   - Knowledge Base:
     - knowledge-base/index.md
     - Health Emergencies:
